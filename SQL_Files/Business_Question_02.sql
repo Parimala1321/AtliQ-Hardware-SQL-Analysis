@@ -1,11 +1,7 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 02
-Percentage increase in unique products in 2021 vs 2020
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+What is the percentage of unique product increase in 2021 vs. 2020?
 ===============================================================================
 */
 
