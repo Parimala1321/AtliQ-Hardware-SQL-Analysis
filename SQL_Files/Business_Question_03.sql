@@ -1,11 +1,8 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 03
-Unique product count by segment
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+ Provide a report with all the unique product counts for each segment and
+sort them in descending order of product counts
 ===============================================================================
 */
 
