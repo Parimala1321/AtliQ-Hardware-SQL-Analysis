@@ -1,11 +1,8 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 04
-Segment with the largest increase in unique products
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+ Which segment had the most increase in unique products in
+2021 vs 2020?
 ===============================================================================
 */
 
