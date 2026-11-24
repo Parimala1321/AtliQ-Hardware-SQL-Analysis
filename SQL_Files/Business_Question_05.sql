@@ -1,11 +1,8 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 05
-Products with the highest and lowest manufacturing costs
+Get the products that have the highest and lowest manufacturing costs.
 
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
 ===============================================================================
 */
 
