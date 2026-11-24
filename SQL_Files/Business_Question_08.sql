@@ -1,11 +1,7 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 08
-Quarter with the highest total sold quantity in FY2020
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+ In which quarter of 2020, got the maximum total_sold_quantity?
 ===============================================================================
 */
 
