@@ -1,11 +1,9 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 01
-APAC markets where Atliq Exclusive operates
+Provide the list of markets in which customer "Atliq Exclusive" operates its
+business in the APAC region.
 
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
 ===============================================================================
 */
 
