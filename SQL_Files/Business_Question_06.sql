@@ -1,11 +1,9 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 06
-Top five Indian customers by average pre-invoice discount in FY2021
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+Generate a report which contains the top 5 customers who received an
+average high pre_invoice_discount_pct for the fiscal year 2021 and in the
+Indian market.
 ===============================================================================
 */
 
