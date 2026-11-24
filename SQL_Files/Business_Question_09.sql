@@ -1,11 +1,8 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 09
-Gross sales contribution by channel in FY2021
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+Which channel helped to bring more gross sales in the fiscal year 2021
+and the percentage of contribution?
 ===============================================================================
 */
 
