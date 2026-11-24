@@ -1,11 +1,8 @@
 /*
 ===============================================================================
 BUSINESS QUESTION 07
-Monthly gross sales report for Atliq Exclusive
-
-PROJECT : AtliQ Hardwares — SQL Analytics Project
-AUTHOR  : Parimala
-TOOL    : MySQL
+Get the complete report of the Gross sales amount for the customer “Atliq
+Exclusive” for each month. 
 ===============================================================================
 */
 
